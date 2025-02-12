@@ -1,8 +1,8 @@
 ## Olá!!!
 
 
-- 🔭 Hoje trabalho como Analista de Suporte(Estagiário)
-- 🌱 Estudando linguagem de programação Java
+- 🔭 Hoje trabalho como Desenvolvedor ETL
+- 🌱 Estudando linguagem de programação Python
 - 📚 Frequentando curso superior Tecnologia em Análise e Desenvolvimento de Sistemas(Tecnólogo)
 
 
