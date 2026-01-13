@@ -3,7 +3,7 @@
 
 - 🔭 Hoje trabalho como Desenvolvedor ETL
 - 🌱 Estudando linguagem de programação Python
-- 📚 Frequentando curso superior Tecnologia em Análise e Desenvolvimento de Sistemas(Tecnólogo)
+- 🎓 Graduado em Tecnologia em Análise e Desenvolvimento de Sistemas (TADS)
 
 
 <div style="display: inline_block">
