@@ -29,13 +29,13 @@ Tenho experiência com **Python e SQL Server**, trabalhando com manipulação de
 
 ---
 
-## 📚 Atualmente estudando
+## ⚙️ Habilidades
 
-- Engenharia de Dados
-- Apache Airflow
-- Pipelines de dados
-- Python para processamento de dados
-- SQL Server
+- Processamento e manipulação de dados com **Python**
+- Desenvolvimento de processos **ETL**
+- Escrita e otimização de **queries em SQL Server**
+- Automação de rotinas e processamento de dados
+- Estruturação de **pipelines de dados**
 
 ---
 
