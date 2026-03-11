@@ -35,7 +35,7 @@ Tenho experiência com **Python e SQL Server**, trabalhando com manipulação de
 - Apache Airflow
 - Pipelines de dados
 - Python para processamento de dados
-- SQL avançado
+- SQL Server
 
 ---
 
