@@ -29,21 +29,12 @@ Sou desenvolvedor com experiência em **processamento de dados, automação, ETL
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedrowowbr&theme=tokyonight" alt="GitHub Profile Details"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pedrowowbr&theme=tokyonight" alt="Repositories per Language"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pedrowowbr&theme=tokyonight" alt="Most Commit Language"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pedrowowbr&theme=tokyonight" alt="GitHub Stats"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pedrowowbr&theme=tokyonight&utcOffset=-3" alt="Productive Time"/>
+<a href="https://github.com/pedrowowbr">
+  <img src="https://github-readme-stats.vercel.app/api?username=pedrowowbr&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+</a>
 
 </div>
+
 
 ---
 
