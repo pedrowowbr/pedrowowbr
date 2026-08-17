@@ -1,6 +1,6 @@
-# Olá, seja bem-vindo! 👋
+# 👋 Olá, seja bem-vindo!
 
-🎯 **Data Engineering | Python Backend (Django & FastAPI)**
+## 🎯 Data Engineering | Python Backend (Django & FastAPI)
 
 Sou desenvolvedor com experiência em **processamento de dados, automação, ETL e desenvolvimento de APIs**. Atuo tanto na construção de pipelines de dados quanto no desenvolvimento de aplicações backend, unindo experiência prática em **Python, SQL Server, Apache Airflow, Django e FastAPI**.
 
@@ -8,47 +8,75 @@ Sou desenvolvedor com experiência em **processamento de dados, automação, ETL
 
 ## 🚀 Tecnologias e Ferramentas
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Django" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
-  <img align="center" alt="FastAPI" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg">
-  <img align="center" alt="SQL Server" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
-  <img align="center" alt="Airflow" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg">
-  <img align="center" alt="Git" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="Django" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" alt="Apache Airflow" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+
 </div>
+
+<p align="center">
+  <strong>Python • Django • FastAPI • SQL Server • Apache Airflow • Git</strong>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/pedrowowbr">
-    <img src="https://github-readme-stats.vercel.app/api?username=pedrowowbr&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-  </a>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedrowowbr&theme=tokyonight" alt="GitHub Profile Details"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pedrowowbr&theme=tokyonight" alt="Repositories per Language"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pedrowowbr&theme=tokyonight" alt="Most Commit Language"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pedrowowbr&theme=tokyonight" alt="GitHub Stats"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pedrowowbr&theme=tokyonight&utcOffset=-3" alt="Productive Time"/>
+
 </div>
 
 ---
 
 ## ⚙️ Habilidades
 
-**Dados / ETL**
-- Desenvolvimento de pipelines **ETL** com **Python**
-- Escrita e otimização de **queries em SQL Server**
-- Orquestração de processos com **Apache Airflow**
-- Automação de rotinas e monitoramento de logs
+### 📊 Dados / ETL
 
-**Backend / APIs**
-- Desenvolvimento de APIs REST com **Django** e **FastAPI**
-- Consumo, testes e documentação de APIs (Insomnia)
-- Modelagem de banco de dados relacional
-- Versionamento de código com **Git**
+* Desenvolvimento de pipelines **ETL** com Python
+* Manipulação e transformação de dados
+* Desenvolvimento e otimização de queries em **SQL Server**
+* Orquestração de processos com **Apache Airflow**
+* Automação de rotinas
+* Monitoramento e análise de logs
+
+### 🐍 Backend / APIs
+
+* Desenvolvimento de APIs REST com **Django** e **FastAPI**
+* Integração e consumo de APIs
+* Testes e documentação de APIs
+* Modelagem de bancos de dados relacionais
+* Versionamento de código com **Git**
 
 ---
 
 ## 💼 Experiência
 
-- **Desenvolvimento ETL** — atuação com Python, Apache Airflow e SQL Server: manipulação de dados, automação de processos e monitoramento de logs.
-- **Suporte Técnico** — investigação de incidentes, identificação de causa raiz e comunicação com clientes.
+### 🔹 Desenvolvimento ETL
+
+Atuação com **Python, Apache Airflow e SQL Server**, desenvolvendo pipelines de dados, automações, processos de transformação e monitoramento de logs.
+
+### 🔹 Suporte Técnico
+
+Experiência com investigação de incidentes, identificação de causa raiz, resolução de problemas e comunicação com clientes.
 
 ---
 
@@ -60,14 +88,18 @@ Sou desenvolvedor com experiência em **processamento de dados, automação, ETL
 
 ## 📫 Contato
 
-<div>
-  <a href="https://www.linkedin.com/in/pedro-braga-416232262/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:edupedrobraga@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://instagram.com/pe.braga_" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/pedro-braga-416232262/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:edupedrobraga@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
+<a href="https://instagram.com/pe.braga_" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
 </div>
