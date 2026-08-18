@@ -25,19 +25,6 @@ Sou desenvolvedor com experiência em **processamento de dados, automação, ETL
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/pedrowowbr">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedrowowbr&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-</a>
-
-</div>
-
-
----
-
 ## ⚙️ Habilidades
 
 ### 📊 Dados / ETL
