@@ -8,7 +8,7 @@ Sou desenvolvedor com experiência em **processamento de dados, automação, ETL
 
 ## 🚀 Tecnologias e Ferramentas
 
-<div align="center">
+<div align="left">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="Django" width="45" height="45"/>
@@ -19,9 +19,7 @@ Sou desenvolvedor com experiência em **processamento de dados, automação, ETL
 
 </div>
 
-<p align="center">
   <strong>Python • Django • FastAPI • SQL Server • Apache Airflow • Git</strong>
-</p>
 
 ---
 
